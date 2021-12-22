@@ -3,9 +3,9 @@
 <b> The project will host dozens of different component designs with modern design techniques.</b>
 
 
-Components ;
+**Components ;
 
-**- Bottom Navigation**
+- Bottom Navigation
 - Bottom Sheet
 - Side Sheet
 - Buttons
