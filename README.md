@@ -5,7 +5,7 @@
 
 Components ;
 
-- Bottom Navigation
+**- Bottom Navigation**
 - Bottom Sheet
 - Side Sheet
 - Buttons
