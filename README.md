@@ -3,7 +3,7 @@
 <b> The project will host dozens of different component designs with modern design techniques.</b>
 
 
-**Components ;
+**Components ;**
 
 - Bottom Navigation
 - Bottom Sheet
@@ -29,7 +29,7 @@
 - Form
 - Toolbars
 
-Pages ;
+**Pages ;**
 
 - Profile
 - No Item Page
